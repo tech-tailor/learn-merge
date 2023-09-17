@@ -1,7 +1,8 @@
 def add_num(*args):
-    result = 0
+    res = 0
     for num in args:
-        result += num
-    print(result)
+        res += num
+        print (num)
+    print(res)
 
 add_num(7,8,4,77)

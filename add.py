@@ -5,4 +5,4 @@ def add_num(*args):
         print (num)
     print(res)
 
-add_num(7,8,4,77)
+add_num(8,4,77)

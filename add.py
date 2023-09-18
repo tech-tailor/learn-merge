@@ -6,3 +6,4 @@ def add_num(*args):
     print(res)
 
 add_num(7,8,4,7, 8)
+print('for main')

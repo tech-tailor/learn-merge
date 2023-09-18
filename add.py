@@ -5,10 +5,7 @@ def add_num(*args):
         print (num)
     print(res)
 
-<<<<<<< HEAD
 add_num(7,8,4,7, 8)
 print('for main')
-=======
 add_num(8,4,77)
 print('i added this for testing2')
->>>>>>> testing2
